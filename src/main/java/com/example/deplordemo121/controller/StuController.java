@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @CrossOrigin
 public class StuController {
-	
+	//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
 	
 	@GetMapping("/gi")
 	public String hi() {
